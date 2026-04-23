@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chal
+# 👋 Hi, Me Shahrul haq.
 
 🎓 Software Engineering Student  
 💻 Passionate Developer | Problem Solver | Tech Enthusiast  
