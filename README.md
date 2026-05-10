@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 3rd Year Software Engineering Student
+- 🎓 4th Year Software Engineering Student
 - 💡 Interested in: Web Apps, Mobile Apps, AI/ML, ERP Systems
 - 🛠️ Currently working on: Real-world software solutions
 - 🌱 Learning: Angular, React, .NET, Python, AI
