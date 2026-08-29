@@ -1,8 +1,10 @@
-# 👋 Hi, Me Shahrul haq.
+# 👋 Hi, Me Shahrul Haq.
 
 🎓 Software Engineering Student  
 💻 Passionate Developer | Problem Solver | Tech Enthusiast  
 🚀 Building real-world applications & scalable systems  
+🌐 portfolio-47efzz00p-shahrulhaqpros-projects.vercel.app
+🌐 portfolio-os-ten-bice.vercel.app
 
 ---
 
