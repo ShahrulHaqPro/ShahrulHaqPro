@@ -63,6 +63,6 @@
 
 - 💼 LinkedIn: https://www.linkedin.com/in/shahrul-haq/
 - 📧 Email: email.com
-- 🌐 Portfolio: https://portfolio.com
+- 🌐 Portfolio: [https://portfolio.com](https://portfolio-os-ten-bice.vercel.app/)
 
 ---
